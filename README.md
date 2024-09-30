@@ -7,5 +7,5 @@ Currently working on course projects.
 💜I like front end development and computational graphics.💜<br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-![](https://giphy.com/gifs/studio-ghibli-hayao-miyazaki-tyHabTw2DXeAU)
+![](https://giphy.com/gifs/studio-ghibli-hayao-miyazaki-tyHabTw2DXeAU.gif)
 
