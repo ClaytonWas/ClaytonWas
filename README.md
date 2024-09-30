@@ -5,6 +5,5 @@ Currently working on course projects.
   - Multiplayer virtual worlds to talk to your friends. As ducks.
 
 💜I like front end development and computational graphics.💜<br>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ![](https://media.giphy.com/media/tyHabTw2DXeAU/giphy.gif)
