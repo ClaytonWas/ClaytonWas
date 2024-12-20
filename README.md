@@ -1,7 +1,8 @@
-Currently working on course projects.
-- [Webapp Photoedits](https://github.com/ClaytonWas/WebappPhotoedits)
+Currently working on projects.
+- [Photoedits](https://github.com/ClaytonWas/Photoedits)
   - Image anaylsis and modification program. 
-- [Ducks](https://github.com/ClaytonWas/Ducks)
+  - Currently in a transitional phase between its previous version [WebApp PhotoEdits]()
+- A successor to [Ducks](https://github.com/ClaytonWas/Ducks)
   - Multiplayer virtual worlds to talk to your friends. As ducks.
 
 💜I like front end development and computational graphics.💜<br>
