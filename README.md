@@ -1,7 +1,7 @@
 Currently working on projects.
 - [Photoedits](https://github.com/ClaytonWas/Photoedits)
   - Image anaylsis and modification program. 
-  - Currently in a transitional phase between its previous version [WebApp PhotoEdits]()
+  - Currently in a transitional phase between its previous version [WebApp PhotoEdits](https://github.com/ClaytonWas/WebappPhotoedits)
 - A successor to [Ducks](https://github.com/ClaytonWas/Ducks)
   - Multiplayer virtual worlds to talk to your friends. As ducks.
 
