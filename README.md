@@ -1,9 +1,10 @@
 Currently working on projects.
-- [Photoedits](https://github.com/ClaytonWas/Photoedits)
-  - Image anaylsis and modification program. 
-  - Currently in a transitional phase between its previous version [WebApp PhotoEdits](https://github.com/ClaytonWas/WebappPhotoedits)
-- A successor to [Ducks](https://github.com/ClaytonWas/Ducks)
-  - Multiplayer virtual worlds to talk to your friends. As ducks.
+- [Walden]
+  - Currently in a transitional phase between [WebApp PhotoEdits](https://github.com/ClaytonWas/WebappPhotoedits) and a cross-platform webview desktop application.
+  - Powered by Rust, for image processing.
+  - Designed with content in mind.
+  - Check my [blog](wasmund.ca/blog) for updates.
+
 
 💜I like front end development and computational graphics.💜<br>
 
