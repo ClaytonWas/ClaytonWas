@@ -1,7 +1,6 @@
 Currently working on projects.
 - [__Walden__](https://github.com/ClaytonWas/walden)
-  - Currently in a transitional phase between [WebApp PhotoEdits](https://github.com/ClaytonWas/WebappPhotoedits) and a cross-platform webview desktop application.
-  - Powered by Rust, for image processing.
+  - Currently in a transitional phase between [WebApp PhotoEdits](https://github.com/ClaytonWas/photoedits).
 
 💜I like front end development and computational graphics.💜<br>
 
