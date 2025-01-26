@@ -1,5 +1,4 @@
-Currently working on projects.
-- [__Walden__](https://github.com/ClaytonWas/photoedits)
+- [__photoedit__](https://github.com/ClaytonWas/photoedit)
   
 💜I like front end development and computational graphics.💜<br>
 
