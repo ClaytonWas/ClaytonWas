@@ -1,5 +1,5 @@
 - [__photoedit__](https://photoedit.ca)
-- [ wyrmhole (work-in-progress) ](https://github.com/ClaytonWas/wyrmhole)
+- [__wyrmhole__](https://github.com/ClaytonWas/wyrmhole)
 
 💜I enjoy full-stack development and graphics.💜<br>
 
