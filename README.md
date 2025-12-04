@@ -1,6 +1,6 @@
 **Newest release:**
 
-🌀 [__wyrmhole__](https://www.wyrmhole.app/) Version 0.2.1 out now! 🧙🏼‍♂️
+🌀 [__wyrmhole__](https://www.wyrmhole.app/) Version 0.3.0 out now! 🧙🏼‍♂️
 
 
 <br>
@@ -12,7 +12,7 @@
 
 <img width="22" height="17" alt="icon" src="https://github.com/user-attachments/assets/6c5acd50-c053-45ee-ad14-85e2ac1aa670" /> [__PhotoEdits__](https://github.com/ClaytonWas/photoedit) hosted at [photoedit.ca](https://www.photoedit.ca/) <img width="22" height="17" alt="icon" src="https://github.com/user-attachments/assets/6c5acd50-c053-45ee-ad14-85e2ac1aa670" /> (desktop only)
 
-🦆 [MMORPG Prototype](https://aduckgame.com/) 🦆
+⚔️ [Co-op Web Based JavaScript MMORPG](https://github.com/ClaytonWas/dungeon-crawler) ⚔️
 
 🪐 [Interactable Solar System Simulation](https://gravity-assist-tau.vercel.app/) 🪐
 
