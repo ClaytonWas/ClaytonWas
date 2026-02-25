@@ -1,6 +1,6 @@
 **Newest release:**
 
-🌀 [__wyrmhole__](https://www.wyrmhole.app/) Version 0.3.1 out now! 🧙🏼‍♂️
+🌀 [__wyrmhole__](https://www.wyrmhole.app/) Version 0.3.1 out now! 🧙🏼‍♂️ [repo](https://github.com/ClaytonWas/wyrmhole)
 
 
 <br>
