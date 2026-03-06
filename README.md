@@ -15,7 +15,7 @@
 
 #### 🌀 [Wyrmhole v0.3.1](https://www.wyrmhole.app/) &ensp;`Node.js` `WebRTC` `Rust` `Magic-Wormhole.rs`
 
-> Cross-platform encrypted file transfer — peer-to-peer, end-to-end, zero compromise.
+> Cross-platform encrypted file transfer. Peer-to-peer, end-to-end, zero compromise.
 
 - Developed a high-performance [p2p tunneling tool](https://github.com/ClaytonWas/wyrmhole) focusing on secure connectivity across Linux, Windows, and macOS.
 - Implemented custom relay servers into the existing [magic-wormhole.rs](https://github.com/magic-wormhole/magic-wormhole.rs) ecosystem to optimize data security, throughput, and minimize latency.
