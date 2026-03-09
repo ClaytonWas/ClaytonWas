@@ -1,6 +1,8 @@
 # Clayton
 
-**Software Developer** · BSc Computer Science · Engineering with a focus on secure live-service systems.
+**Backend Developer** · BSc Computer Science · Engineering with a focus on secure live-service systems.
+
+Currently working on [canadianformatters.com](https://www.canadianformatters.com/).
 
 ### **Technical Skills**
 **Languages I Like:** JavaScript, TypeScript, Python, Rust
