@@ -15,7 +15,7 @@ Currently working on [canadianformatters.com](https://www.canadianformatters.com
 
 ### Notable Projects
 
-#### 🌀 [Wyrmhole v0.3.1](https://www.wyrmhole.app/) &ensp;`Node.js` `WebRTC` `Rust` `Magic-Wormhole.rs`
+#### 🌀 [Wyrmhole v0.3.2](https://www.wyrmhole.app/) &ensp;`Node.js` `WebRTC` `Rust` `Magic-Wormhole.rs`
 
 > Cross-platform encrypted file transfer. Peer-to-peer, end-to-end, zero compromise.
 
