@@ -11,7 +11,7 @@ Currently working on [canadianformatters.com](https://www.canadianformatters.com
 
 **Specialities:** WebRTC, Authentication, WebSockets, Canvas API
 
-**Security:** OAuth2, JWT, Database Design principles, OWASP principles (Current Cybersecurity Post-Grad)
+**Security:** OAuth2, JWT, Database Design principles
 
 ### Notable Projects
 
