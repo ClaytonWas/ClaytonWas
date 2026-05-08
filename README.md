@@ -13,11 +13,11 @@ working on [canadianformatters.com](https://www.canadianformatters.com/)
 
 #### 🌀 [Wyrmhole](https://www.wyrmhole.app/) &nbsp;`v0.3.2`
 `Node.js` &nbsp;`WebRTC` &nbsp;`Rust` &nbsp;`magic-wormhole.rs`
-> Cross-platform encrypted file transfer. Peer-to-peer, end-to-end, zero compromise.
+> Cross-platform encrypted file transfer. Key based peer-to-peer.
 
 #### <img width="20" height="20" alt="" src="https://github.com/user-attachments/assets/bfc249b6-0fe7-4a70-bafb-84d1a156bfb8" /> [Tuned In](https://github.com/ClaytonWas/Tuned-In) `v3.0`
 `Gemini Nano`
-> On-device AI that reads any webpage and recommends Spotify tracks matching its mood.
+> On-device LLM recommending Spotify tracks matching website mood.
 
 ---
 
