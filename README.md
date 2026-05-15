@@ -15,7 +15,7 @@ working on [canadianformatters.com](https://www.canadianformatters.com/)
 `Node.js` &nbsp;`WebRTC` &nbsp;`Rust` &nbsp;`magic-wormhole.rs`
 > Cross-platform encrypted file transfer. Key based peer-to-peer.
 
-#### <img width="20" height="20" alt="" src="https://github.com/user-attachments/assets/bfc249b6-0fe7-4a70-bafb-84d1a156bfb8" /> [Tuned In](https://github.com/ClaytonWas/Tuned-In) `v3.0`
+#### <img width="20" height="20" alt="" src="https://github.com/user-attachments/assets/bfc249b6-0fe7-4a70-bafb-84d1a156bfb8" /> [Tuned In](https://chromewebstore.google.com/detail/tuned-in/jfpnhopfpcgkpfjeifjnoimjehhclcem) `v3.0`
 `Gemini Nano`
 > On-device LLM recommending Spotify tracks matching website mood.
 
