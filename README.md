@@ -11,7 +11,7 @@ working on [canadianformatters.com](https://www.canadianformatters.com/)
 
 ---
 
-#### 🌀 [Wyrmhole](https://www.wyrmhole.app/) &nbsp;`v0.3.4`
+#### 🌀 [Wyrmhole](https://www.wyrmhole.app/) &nbsp;`v1.0.0`
 `Node.js` &nbsp;`WebRTC` &nbsp;`Rust` &nbsp;`magic-wormhole.rs`
 > Cross-platform encrypted file transfer. Key based peer-to-peer.
 
