@@ -5,10 +5,6 @@
 # Clayton
 Backend Developer
 
-**Languages** &nbsp; JavaScript · Python · Rust &emsp; &emsp; &emsp; **Frameworks** &nbsp; React · Next.js · Express 
-
-working on [canadianformatters.com](https://www.canadianformatters.com/)
-
 ---
 
 #### 🌀 [Wyrmhole](https://www.wyrmhole.app/) &nbsp;`v1.0.0`
