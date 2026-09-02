@@ -5,6 +5,8 @@
 # Clayton
 Backend Developer
 
+Currently working on [Learn Someth.ing](https://www.learnsometh.ing/) and [Canadian Formatters](https://www.canadianformatters.com/)
+
 ---
 
 #### 🌀 [Wyrmhole](https://www.wyrmhole.app/) &nbsp;`v1.0.0`
