@@ -9,11 +9,11 @@ Currently working on [Learn Someth.ing](https://www.learnsometh.ing/) and [Canad
 
 ---
 
-#### 🌀 [Wyrmhole](https://www.wyrmhole.app/) &nbsp;`v1.0.0`
+#### 🌀 [Wyrmhole](https://www.wyrmhole.app/) &nbsp;`v1.1.0`
 `Node.js` &nbsp;`WebRTC` &nbsp;`Rust` &nbsp;`magic-wormhole.rs`
 > Cross-platform encrypted file transfer. Key based peer-to-peer.
 
-#### <img width="20" height="20" alt="" src="https://github.com/user-attachments/assets/bfc249b6-0fe7-4a70-bafb-84d1a156bfb8" /> [Tuned In](https://chromewebstore.google.com/detail/tuned-in/jfpnhopfpcgkpfjeifjnoimjehhclcem) `v4.0`
+#### <img width="20" height="20" alt="" src="https://github.com/user-attachments/assets/bfc249b6-0fe7-4a70-bafb-84d1a156bfb8" /> [Tuned In](https://chromewebstore.google.com/detail/tuned-in/jfpnhopfpcgkpfjeifjnoimjehhclcem) `v5.0`
 `Gemini Nano`
 > On-device LLM recommending Spotify tracks matching website mood.
 
