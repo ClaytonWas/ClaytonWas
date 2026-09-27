@@ -1,24 +1,17 @@
-<p align="center">
-  <img src="./media/ashitaka-reno02-from-foresttaenglish(dot)wordpress(dot)com.webp" alt="" height="175px" width="500px" />
-</p>
-
 # Clayton
 Backend Developer
 
-Currently working on [Learn Someth.ing](https://www.learnsometh.ing/) and [Canadian Formatters](https://www.canadianformatters.com/)
+Working on [Canadian Formatters](https://www.canadianformatters.com/)
 
----
+## Projects
 
-#### 🌀 [Wyrmhole](https://www.wyrmhole.app/) &nbsp;`v1.1.0`
-`Node.js` &nbsp;`WebRTC` &nbsp;`Rust` &nbsp;`magic-wormhole.rs`
-> Cross-platform encrypted file transfer. Key based peer-to-peer.
+**[Wyrmhole](https://www.wyrmhole.app/)** · Rust, Node.js, WebRTC
+Cross-platform encrypted peer-to-peer file transfer.
 
-#### <img width="20" height="20" alt="" src="https://github.com/user-attachments/assets/bfc249b6-0fe7-4a70-bafb-84d1a156bfb8" /> [Tuned In](https://chromewebstore.google.com/detail/tuned-in/jfpnhopfpcgkpfjeifjnoimjehhclcem) `v5.0`
-`Gemini Nano`
-> On-device LLM recommending Spotify tracks matching website mood.
-
----
+**[Tuned In](https://chromewebstore.google.com/detail/tuned-in/jfpnhopfpcgkpfjeifjnoimjehhclcem)** · Gemini Nano
+On-device LLM that recommends music matching a website's mood.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/tyHabTw2DXeAU/giphy.gif" alt="" height="225px" width="500px" />
+  <img src="./media/ashitaka-reno02-from-foresttaenglish(dot)wordpress(dot)com.webp" alt="" height="110" />
+  <img src="https://media.giphy.com/media/tyHabTw2DXeAU/giphy.gif" alt="" height="110" />
 </p>
